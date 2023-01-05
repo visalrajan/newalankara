@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774026288276",
+    "project_id": "alankara-boutique",
+    "storage_bucket": "alankara-boutique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774026288276:android:45d807f01370424d642881",
+        "android_client_info": {
+          "package_name": "com.example.alankara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774026288276-ggchlqgqvpv4phd9d5sdqjpkto8j55uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLg0YeB8jD4O9grMkeIVUQwbh6d43yLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774026288276-ggchlqgqvpv4phd9d5sdqjpkto8j55uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
